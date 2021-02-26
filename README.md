@@ -10,3 +10,12 @@ I have a few hypotheses:
   * In general, the Democratic party is perceived as more supportive of welfare redistribution, but this may not be the case for farmers' welfare specifically. 
 * These shocks make incumbents more likely to lose
   * Similarly, they should decrease incumbent voteshare
+
+
+I have a few reasons for choosing to extend this analysis to the United States in particular:
+
+* Bruckner & Ciccone's original result was for very poor countries - it's worth examining the impact on wealthy countries
+* The US is large enough to have agricultural and non-agricultural districts (which can serve as controls)
+* The US has extensive data available online
+* Unlike most OECD countries, the US only has two main political parties - this creates a one-dimensional political spectrum which is easier to measure changes in
+* I'm American and personally curious about the results here 
